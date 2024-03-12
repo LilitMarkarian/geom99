@@ -21,3 +21,12 @@
    
 Followed Shawn's video for the above steps 
 **`https://www.youtube.com/watch?v=dyFeyBX9jIY`**
+
+### To know your server is on and running you should look at the status of your instance on GCP.. 
+If the instance is stopped the status will be set to ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/46c223b1-60f9-4fe7-b869-9a3e4c380bc7)
+and if the instance is running the status will look like ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/3a691eed-5ca6-47eb-80db-e77920b1d96d)
+
+
+### The recommended way to turn off the server is:
+- To go to the three dots on GCP and stopping the VM --> ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/b4e66023-6c7c-44f1-b656-44bc3b948957)
+## To turn it back on, simply select the **Start/ Resume**
