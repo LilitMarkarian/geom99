@@ -19,5 +19,5 @@
 5. under the Source IPv4 ranges enter your External IP address ( should not start with 10.x.x.x or 192.168.x.x ) 
 6. under Protocols and ports select TCP and enter ports 444, 6080, 6443  and click Create! this will create the Firewall rule!
    
-####Followed Shawn's video for the above steps 
-`https://www.youtube.com/watch?v=dyFeyBX9jIY`
+Followed Shawn's video for the above steps 
+**`https://www.youtube.com/watch?v=dyFeyBX9jIY`**
