@@ -29,4 +29,11 @@ and if the instance is running the status will look like ![image](https://github
 
 ### The recommended way to turn off the server is:
 - To go to the three dots on GCP and stopping the VM --> ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/b4e66023-6c7c-44f1-b656-44bc3b948957)
-## To turn it back on, simply select the **Start/ Resume**
+### To turn it back on, simply select the **Start/ Resume**
+
+**Understand how these tools fit into the the Web, Middle and Data tiers discussed in class. The data tier can come many places, even a simple GeoJSON file. A web tier example is the ArcGIS Online web map, which provides the user experience wrapping the map service. The map service itself (from your ArcGIS Server on GCP) is the middle tier to power the web map with data, and ArcGIS Server connects (on the back end/not accessible over the web) to the database or data store. ** --> read these following articles to understand better 
+`https://enterprise.arcgis.com/en/server/latest/publish-services/windows/services-in-arcgis-enterprise.htm`
+
+`https://enterprise.arcgis.com/en/server/latest/publish-services/windows/relationships-between-web-services-and-portal-items.htm`
+
+
