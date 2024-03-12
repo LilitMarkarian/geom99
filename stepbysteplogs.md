@@ -2,7 +2,7 @@
 
 ## Week 7 and 8 checklist 
 
-### Creating and using provided image
+### GCP - Creating and using provided image
 1. Sign into GCP 
 2. hamburger button 
 3. Compute Engine 
