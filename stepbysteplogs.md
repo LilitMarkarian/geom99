@@ -41,12 +41,12 @@ and if the instance is running the status will look like ![image](https://github
 2. Go to Insert and Connections
 3. ![Screenshot 2024-03-12 150822](https://github.com/LilitMarkarian/geom99/assets/97748633/9ac106f6-c537-4c92-89ec-d0a55e21f417)
 4. ![Screenshot 2024-03-12 150900](https://github.com/LilitMarkarian/geom99/assets/97748633/04023a1b-74ba-42ba-b10b-f5c1e976f1b6)
-6. ![Screenshot 2024-03-12 150928](https://github.com/LilitMarkarian/geom99/assets/97748633/48887b6f-7468-4cd6-8b7e-a27b3a89fc05)
-7. ![Screenshot 2024-03-12 144123](https://github.com/LilitMarkarian/geom99/assets/97748633/95c9b10e-d184-48bc-9e40-cb1306c70bc2)
-8. Click on Share
-9. Share As Web Map
-10. Analyze/ Resolve all warnings or errors you encounter and then Click Share!
-11. ![Screenshot 2024-03-12 150615](https://github.com/LilitMarkarian/geom99/assets/97748633/f22c7246-c933-411f-bd55-e9fbc49e7c46)
+5. ![Screenshot 2024-03-12 150928](https://github.com/LilitMarkarian/geom99/assets/97748633/b70a19e2-9dde-4192-a289-992ebbfacb3c)
+6. ![Screenshot 2024-03-12 144123](https://github.com/LilitMarkarian/geom99/assets/97748633/95c9b10e-d184-48bc-9e40-cb1306c70bc2)
+7. Click on Share
+8. Share As Web Map
+9. Analyze/ Resolve all warnings or errors you encounter and then Click Share!
+10. ![Screenshot 2024-03-12 150615](https://github.com/LilitMarkarian/geom99/assets/97748633/f22c7246-c933-411f-bd55-e9fbc49e7c46)
 
 ## Publishing a map service into ArcGIS Server on GCP VM
 1. Open ArcGIS Pro
