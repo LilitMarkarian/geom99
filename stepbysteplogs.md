@@ -40,26 +40,27 @@ and if the instance is running the status will look like ![image](https://github
 1. Open ArcGIS Pro
 2. Go to Insert and Connections
 3. ![Screenshot 2024-03-12 150822](https://github.com/LilitMarkarian/geom99/assets/97748633/9ac106f6-c537-4c92-89ec-d0a55e21f417)
-4. ![Screenshot 2024-03-12 231650](https://github.com/LilitMarkarian/geom99/assets/97748633/e151d84f-808d-43fc-b0c3-3e78c8b3a3b8)
-5. ![Screenshot 2024-03-12 150928](https://github.com/LilitMarkarian/geom99/assets/97748633/48887b6f-7468-4cd6-8b7e-a27b3a89fc05)
-6. ![Screenshot 2024-03-12 144123](https://github.com/LilitMarkarian/geom99/assets/97748633/95c9b10e-d184-48bc-9e40-cb1306c70bc2)
-7. Click on Share
-8. Share As Web Map
-9. Analyze/ Resolve all warnings or errors you encounter and then Click Share!
-10. ![Screenshot 2024-03-12 150615](https://github.com/LilitMarkarian/geom99/assets/97748633/f22c7246-c933-411f-bd55-e9fbc49e7c46)
+4. ![Screenshot 2024-03-12 150900](https://github.com/LilitMarkarian/geom99/assets/97748633/04023a1b-74ba-42ba-b10b-f5c1e976f1b6)
+5. ![Screenshot 2024-03-12 231650](https://github.com/LilitMarkarian/geom99/assets/97748633/e151d84f-808d-43fc-b0c3-3e78c8b3a3b8)
+6. ![Screenshot 2024-03-12 150928](https://github.com/LilitMarkarian/geom99/assets/97748633/48887b6f-7468-4cd6-8b7e-a27b3a89fc05)
+7. ![Screenshot 2024-03-12 144123](https://github.com/LilitMarkarian/geom99/assets/97748633/95c9b10e-d184-48bc-9e40-cb1306c70bc2)
+8. Click on Share
+9. Share As Web Map
+10. Analyze/ Resolve all warnings or errors you encounter and then Click Share!
+11. ![Screenshot 2024-03-12 150615](https://github.com/LilitMarkarian/geom99/assets/97748633/f22c7246-c933-411f-bd55-e9fbc49e7c46)
 
 ## Publishing a map service into ArcGIS Server on GCP VM
 1. Open ArcGIS Pro
 2. Go to Insert and Connections
 3. ![Screenshot 2024-03-12 150822](https://github.com/LilitMarkarian/geom99/assets/97748633/9ac106f6-c537-4c92-89ec-d0a55e21f417)
-4. ![Screenshot 2024-03-12 231650](https://github.com/LilitMarkarian/geom99/assets/97748633/ce8fb0c2-ffcc-429a-ab88-49849cc899be)
-5. ![Screenshot 2024-03-12 231727](https://github.com/LilitMarkarian/geom99/assets/97748633/eca0efde-4d1e-4d63-8306-7e9555dbd208)
-6. After clicking on Map Service from the previous image, it will open a folder to select your desired map.
-7. This will open a Publish Map service tool. Fill out all the required information and fix all the errors and warnings.
-8. One of the warnings is ![Screenshot 2024-03-12 230832](https://github.com/LilitMarkarian/geom99/assets/97748633/7f491d88-ebd7-458c-96ef-b948886dc544)
+4. ![Screenshot 2024-03-12 231650](https://github.com/LilitMarkarian/geom99/assets/97748633/e151d84f-808d-43fc-b0c3-3e78c8b3a3b8)
+6. ![Screenshot 2024-03-12 231727](https://github.com/LilitMarkarian/geom99/assets/97748633/eca0efde-4d1e-4d63-8306-7e9555dbd208)
+7. After clicking on Map Service from the previous image, it will open a folder to select your desired map.
+8. This will open a Publish Map service tool. Fill out all the required information and fix all the errors and warnings.
+9. One of the warnings is ![Screenshot 2024-03-12 230832](https://github.com/LilitMarkarian/geom99/assets/97748633/7f491d88-ebd7-458c-96ef-b948886dc544)
         To fix this you should register the folder, provide a connection details for the data source. Give it a name and the publisher folder should be your PC and the _Server folder Path_ should be set to **New Path** and paste C:\gisworkspace\Canada and Click **Create**!
-9. After it registers the folder, if there are no more errors to solve --> Click **Publish**!! ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/c18a4699-babf-4be4-8d6d-88471fe79523)
-10. This will publish the map onto the Server ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/3a373acf-227a-468a-b89b-14dfbdd9ce86)
+10. After it registers the folder, if there are no more errors to solve --> Click **Publish**!! ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/c18a4699-babf-4be4-8d6d-88471fe79523)
+11. This will publish the map onto the Server ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/3a373acf-227a-468a-b89b-14dfbdd9ce86)
       ![Screenshot 2024-03-12 231221](https://github.com/LilitMarkarian/geom99/assets/97748633/64bd601b-ccd6-45cc-9547-7fea5a1b71dd)
 
 
