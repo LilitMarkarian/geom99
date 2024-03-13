@@ -41,7 +41,6 @@ and if the instance is running the status will look like ![image](https://github
 2. Go to Insert and Connections
 3. ![Screenshot 2024-03-12 150822](https://github.com/LilitMarkarian/geom99/assets/97748633/9ac106f6-c537-4c92-89ec-d0a55e21f417)
 4. ![Screenshot 2024-03-12 150900](https://github.com/LilitMarkarian/geom99/assets/97748633/04023a1b-74ba-42ba-b10b-f5c1e976f1b6)
-5. ![Screenshot 2024-03-12 231650](https://github.com/LilitMarkarian/geom99/assets/97748633/e151d84f-808d-43fc-b0c3-3e78c8b3a3b8)
 6. ![Screenshot 2024-03-12 150928](https://github.com/LilitMarkarian/geom99/assets/97748633/48887b6f-7468-4cd6-8b7e-a27b3a89fc05)
 7. ![Screenshot 2024-03-12 144123](https://github.com/LilitMarkarian/geom99/assets/97748633/95c9b10e-d184-48bc-9e40-cb1306c70bc2)
 8. Click on Share
