@@ -59,8 +59,10 @@ and if the instance is running the status will look like ![image](https://github
 8. One of the warnings is ![Screenshot 2024-03-12 230832](https://github.com/LilitMarkarian/geom99/assets/97748633/7f491d88-ebd7-458c-96ef-b948886dc544)
         To fix this you should register the folder, provide a connection details for the data source. Give it a name and the publisher folder should be your PC and the _Server folder Path_ should be set to **New Path** and paste C:\gisworkspace\Canada and Click **Create**!
 9. After it registers the folder, if there are no more errors to solve --> Click **Publish**!! ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/c18a4699-babf-4be4-8d6d-88471fe79523)
-10. This will publish the map onto the Server ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/3a373acf-227a-468a-b89b-14dfbdd9ce86)
-      ![Screenshot 2024-03-12 231221](https://github.com/LilitMarkarian/geom99/assets/97748633/64bd601b-ccd6-45cc-9547-7fea5a1b71dd)
+10. This will publish the map onto the Server ![Screenshot 2024-03-12 231215](https://github.com/LilitMarkarian/geom99/assets/97748633/1ff812ce-d4bf-4975-bd85-64770de1c8f8)
+
+    ![Screenshot 2024-03-12 231221](https://github.com/LilitMarkarian/geom99/assets/97748633/7a59fcc1-3b69-49b2-8ac7-654e9dcc264d)
+
 
 
 
