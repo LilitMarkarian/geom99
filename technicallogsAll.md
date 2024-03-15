@@ -116,6 +116,7 @@ and if the instance is running the status will look like ![image](https://github
 
 > Despite the fact that I enjoed deploying this solution and understanding it, I do not think it is a great solution for our client. Comparing this solution with WorkForce, I believe workforce is a better solution for the project.
 
+# Week 10 
 ## Field Maps 
 - ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/7f1f09d4-59a9-4f2c-9894-bc871bbd249b) Created a new project in Field maps and started from 0.
 - Doing so I was able to create a new table with felds I configured. ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/a9aca455-3aff-4bcb-a8fe-831c86cf9de6)
@@ -131,7 +132,6 @@ and if the instance is running the status will look like ![image](https://github
 
 > Working with real data is more exciting and motivating, having to create fake data to test these solutions is not as satisfying. However, playing with these products thought me Very much about how each one of them work and it let me understand better what is needed for our project.
 
-# Week 10 
 
 
 
