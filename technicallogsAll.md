@@ -130,7 +130,7 @@ and if the instance is running the status will look like ![image](https://github
     - On the mobile app it shows the online maps and the offline ones. ![Screenshot 2024-03-15 153146](https://github.com/LilitMarkarian/geom99/assets/97748633/fdb14861-353c-486d-a76d-7fde4bc32a9f)
     - choosing the offline map will only open the map that is in the red square. This helps with fast data load ![MicrosoftTeams-image (6)](https://github.com/LilitMarkarian/geom99/assets/97748633/ec3b0544-8d49-43a4-b1fd-1b1b12c710ca)
 
-> Working with real data is more exciting and motivating, having to create fake data to test these solutions is not as satisfying. However, playing with these products thought me Very much about how each one of them work and it let me understand better what is needed for our project.
+> Working with real data is more exciting and motivating, having to create fake data to test these solutions is not as satisfying. However, playing with these products thought me Very much about how each one of them work and it let me understand better what is needed for our projec.
 
 
 
