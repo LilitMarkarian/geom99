@@ -7,7 +7,7 @@
      - ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/edaea52d-e546-4614-9f62-5f30d30894b3)
      - ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/ac132452-c6dd-480e-940f-3bcaf131eb84)
 - After adding the assignment type and workers we could start working on the map
-
+- 
 ### ArcGIS WorkForce Map
 -  We could create assignments by clicking on ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/dd16f0bd-2320-4874-affb-3e6003260139)
 - Creating an Assignment and assigning it to a worker is very easy (The Blue pin is the new assignment location)
