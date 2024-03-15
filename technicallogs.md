@@ -1,6 +1,6 @@
 # Step by Step Logs
 
-## Week 7 and 8 checklist 
+# Week 7 and 8 checklist 
 
 ### GCP - Creating and using provided image
 1. Sign into GCP 
@@ -62,6 +62,9 @@ and if the instance is running the status will look like ![image](https://github
 10. This will publish the map onto the Server ![Screenshot 2024-03-12 231215](https://github.com/LilitMarkarian/geom99/assets/97748633/1ff812ce-d4bf-4975-bd85-64770de1c8f8)
 
     ![Screenshot 2024-03-12 231221](https://github.com/LilitMarkarian/geom99/assets/97748633/7a59fcc1-3b69-49b2-8ac7-654e9dcc264d)
+
+# Week 9 
+### looked for AGOL Solutions with the group 
 
 
 
