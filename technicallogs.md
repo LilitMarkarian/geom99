@@ -63,6 +63,7 @@ and if the instance is running the status will look like ![image](https://github
 
     ![Screenshot 2024-03-12 231221](https://github.com/LilitMarkarian/geom99/assets/97748633/7a59fcc1-3b69-49b2-8ac7-654e9dcc264d)
 
+
 # Week 9 
 ## ArcGIS WorkForce
 - Open AGOL
@@ -114,6 +115,7 @@ and if the instance is running the status will look like ![image](https://github
 - This solution also has Dashboards with it which could be modified and edited as the user wishes ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/ed2dadc8-bf7f-4072-bd4d-12ec29264c74)
 
 > Despite the fact that I enjoed deploying this solution and understanding it, I do not think it is a great solution for our client. Comparing this solution with WorkForce, I believe workforce is a better solution for the project.
+
 
 ## Field Maps 
 - ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/7f1f09d4-59a9-4f2c-9894-bc871bbd249b) Created a new project in Field maps and started from 0.
