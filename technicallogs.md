@@ -1,6 +1,6 @@
 # Step by Step Logs
 
-**# Week 7 and 8  **
+# Week 7 and 8
 
 ### GCP - Creating and using provided image
 1. Sign into GCP 
