@@ -125,7 +125,7 @@ and if the instance is running the status will look like ![image](https://github
 - Creating Offline maps helps the user to collect data on the field while having no internet connections, and then when connected they could sync the map so that it would show on AGOL.
     - ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/68d88d0a-f0e9-43cb-86f6-d4a3a0f239b6)
     - ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/07d64cfd-b0a5-4806-b4b5-35c3bc2287dc)
-    - On the mobile app it shows the online maps and the offline ones. ![MicrosoftTeams-image (9)](https://github.com/LilitMarkarian/geom99/assets/97748633/879dd2d5-d7de-4dd4-891e-ce64442a3da5)
+    - On the mobile app it shows the online maps and the offline ones. ![MicrosoftTeams-image (9)](https://github.com/LilitMarkarian/geom99/assets/97748633/eebb9110-aea7-407a-9f4e-a9c157386878)
     - choosing the offline map will only open the map that is in the red square. This helps with fast data load ![MicrosoftTeams-image (6)](https://github.com/LilitMarkarian/geom99/assets/97748633/ec3b0544-8d49-43a4-b1fd-1b1b12c710ca)
 
 > Working with real data is more exciting and motivating, having to create fake data to test these solutions is not as satisfying. However, playing with these products thought me Very much about how each one of them work and it let me understand better what is needed for our project.
