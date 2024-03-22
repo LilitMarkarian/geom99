@@ -8,7 +8,7 @@ In the training content I will be showing Fire Hydrants in Montreal parks. I use
 ## Microsoft Power Automate 
 Because our customer is interested in automated repopr
 
-### Step by step `https://support.esri.com/en-us/knowledge-base/how-to-generate-automated-email-notifications-for-arcgi-000030586#:~:text=Click%20Create.%201%20On%20the%20left%20navigation%20pane%2C,select%20the%20desired%20trigger.%20...%204%20Click%20Create.`
+### Step by step 
 1. Sign in, Click on Connections, and then New Connection. ![Screenshot 2024-03-21 214443](https://github.com/LilitMarkarian/geom99/assets/97748633/e5d5f3f2-9bf5-4edd-a0c5-995da7cff878)
 2. Search for **ArcGIS**_![Screenshot 2024-03-21 214731](https://github.com/LilitMarkarian/geom99/assets/97748633/cde8e6a7-c90b-4c3e-b59e-30caac53024a)
 3. Click **_Create_**
