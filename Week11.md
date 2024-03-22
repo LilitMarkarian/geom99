@@ -9,8 +9,8 @@ In the training content I will be showing Fire Hydrants in Montreal parks. I use
 Because our customer is interested in automated repopr
 
 ### Step by step 
-1. Sign in, Click on Connections, and then New Connection. ![Screenshot 2024-03-21 214443](https://github.com/LilitMarkarian/geom99/assets/97748633/e5d5f3f2-9bf5-4edd-a0c5-995da7cff878)
-2. Search for **ArcGIS**_![Screenshot 2024-03-21 214731](https://github.com/LilitMarkarian/geom99/assets/97748633/cde8e6a7-c90b-4c3e-b59e-30caac53024a)
+1. Sign in, Click on Connections, and then New Connection. ![Screenshot 2024-03-21 214443](https://github.com/LilitMarkarian/geom99/assets/97748633/fdc1a1fb-38eb-42f8-abe7-84746c98b7f2)
+2. Search for **ArcGIS**![Screenshot 2024-03-21 214731](https://github.com/LilitMarkarian/geom99/assets/97748633/1a46309d-4514-4b80-ac48-76af296a9a58)
 3. Click **_Create_**
 4. After Clicking Create it will bring you to ![Screenshot 2024-03-21 214753](https://github.com/LilitMarkarian/geom99/assets/97748633/fe4bfb6b-d0fd-4543-b2e8-39a43d2db300) click Allow to let Pwer Automate access ArcGIS Online.
 5. Go to **My Flows** and Click **New Flow** ![Screenshot 2024-03-21 214840](https://github.com/LilitMarkarian/geom99/assets/97748633/5ccdb175-6fc1-41df-bbc8-e14c287ca0e4)
