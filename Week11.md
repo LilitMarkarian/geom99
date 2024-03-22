@@ -13,7 +13,7 @@ Because our customer is interested in automated repopr
 2. Search for **ArcGIS**![Screenshot 2024-03-21 214731](https://github.com/LilitMarkarian/geom99/assets/97748633/1a46309d-4514-4b80-ac48-76af296a9a58)
 3. Click **_Create_**
 4. After Clicking Create it will bring you to ![Screenshot 2024-03-21 214753](https://github.com/LilitMarkarian/geom99/assets/97748633/fe4bfb6b-d0fd-4543-b2e8-39a43d2db300) click Allow to let Pwer Automate access ArcGIS Online.
-5. Go to **My Flows** and Click **New Flow** ![Screenshot 2024-03-21 214840](https://github.com/LilitMarkarian/geom99/assets/97748633/5ccdb175-6fc1-41df-bbc8-e14c287ca0e4)
+5. Go to **My Flows** and Click **New Flow** ![Screenshot 2024-03-21 214840](https://github.com/LilitMarkarian/geom99/assets/97748633/b2b456c1-eb54-4ec3-b28a-de6012e192e7)
 6. Add _Flow Name_ and _Choose your Flow's Trigger_ ![Screenshot 2024-03-21 215658](https://github.com/LilitMarkarian/geom99/assets/97748633/23e8b9ff-a39d-4f71-8eee-fade12c4e551)
    - When choosing the Flow's Trigger, in the search bar search for ArcGIS to only see the triggers available for ArcGIS.
    - And Click **Create**
