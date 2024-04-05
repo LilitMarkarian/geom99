@@ -29,7 +29,7 @@ To use Jupyter Notebook:
 ### Source:
 `https://github.com/Esri/Survey123-tools/blob/73cee0b6f6c94edfc08b4037c27f96b79d2ff226/Work_with_Survey_Data/work_with_survey_data.ipynb`
 
-## Generating Reports Using ArcGIS Online Survey123 - Jupyter Notebook
+## Creating Report Templates on Survey123 website - AGOL
 > The main goal of this task was to generate a report of survey123 data and download it locally using Jupyter Notebook.
 > To make this work, we need to create a **report template** from our **_Survey123 website_**. 
 - Open ArcGIS Online
@@ -43,8 +43,20 @@ To use Jupyter Notebook:
 - This template will be downloaded to your computer as .docx file, modify it however you wish on your computer using word, and then import it back as a new template.
 - The downloaded template will look like this --> ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/453c5703-3fbe-4b19-8aeb-997fc0229ff8)
 - After you are done with the modification, go back to ArcGIS Online and click on New Template, Choose the .docx file you modified and give it a name.
-- 
+ 
 ## Generate reports using Survey123 Website.
 ![Screenshot 2024-04-05 010031](https://github.com/LilitMarkarian/geom99/assets/97748633/64ae4923-1b06-4ebc-b3c4-da0b750d0eba)
 This will generate a report for those two selected records. 
 > it is important to note that generating reports cost credits on AGOL. For example, generating those two records will only be one credit. However, it is important to check your credits if you are about to generate a big number of records.
+> After generating the report, depending on where you wanted to save it, go to content in AGOL and check if it is generated. ![Screenshot 2024-04-05 010657](https://github.com/LilitMarkarian/geom99/assets/97748633/5e76b8cc-9569-4971-9eef-4be03bc3043e)
+- Open the item and download it onto your computer. ![Screenshot 2024-04-05 013207](https://github.com/LilitMarkarian/geom99/assets/97748633/48789222-8226-498f-9c60-6dff5c40ca7d)
+- Because I did not want to put a lot of time on modifying the template, it does not look any different. However, for our client we will be modifying it majorly. ![Screenshot 2024-04-05 013359](https://github.com/LilitMarkarian/geom99/assets/97748633/8b95220a-acc2-4d49-9714-b9106b85d808)
+  
+## Generate survey123 reports using Jupyter Notebook - AGOL
+> I want to mention that because of the nature of this assignment I did not dive deep into the code, I used sources that I mentioned above as a guide to learn Jupyter Notebooks and to understand the process better. However, for our project I will be writing my code.
+
+![image](https://github.com/LilitMarkarian/geom99/assets/97748633/306ae880-7232-4a76-b452-ce3a8c5be4b4)
+
+> unfortunately, I was unable to find where my downloaded reports went but I will be exploring it more in the coming weeks.
+> I believe using Jupyter Notebook would be a great asset for out project.
+
