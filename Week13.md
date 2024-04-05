@@ -39,6 +39,12 @@ To use Jupyter Notebook:
 - go to ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/99c56eca-aa73-435e-b7a3-0f7100ffbc8d) from the navbar.
 - And Click on Report ![Screenshot 2024-04-05 004158](https://github.com/LilitMarkarian/geom99/assets/97748633/354a4895-4eca-4ae9-98bf-6c90dc1878fc)
 - Click Manage Templates ![Screenshot 2024-04-05 004431](https://github.com/LilitMarkarian/geom99/assets/97748633/bd65b001-3707-4a37-8f44-961a6ba3edff)
+- If you do not have any temples, click on Download sample template.![Screenshot 2024-04-05 005406](https://github.com/LilitMarkarian/geom99/assets/97748633/8f88e2c7-5efc-492a-be50-7327ed4f595f)
+- This template will be downloaded to your computer as .docx file, modify it however you wish on your computer using word, and then import it back as a new template.
+- The downloaded template will look like this --> ![image](https://github.com/LilitMarkarian/geom99/assets/97748633/453c5703-3fbe-4b19-8aeb-997fc0229ff8)
+- After you are done with the modification, go back to ArcGIS Online and click on New Template, Choose the .docx file you modified and give it a name.
 - 
-
-
+## Generate reports using Survey123 Website.
+![Screenshot 2024-04-05 010031](https://github.com/LilitMarkarian/geom99/assets/97748633/64ae4923-1b06-4ebc-b3c4-da0b750d0eba)
+This will generate a report for those two selected records. 
+> it is important to note that generating reports cost credits on AGOL. For example, generating those two records will only be one credit. However, it is important to check your credits if you are about to generate a big number of records.
