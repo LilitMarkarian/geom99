@@ -44,8 +44,13 @@ It is worth mentioning that QGIS also works with Python Scripts to automate any 
 
 ### Sources: 
 > QGIS Cloud Pro price and features info: https://qgiscloud.com/pages/plans?locale=en
-> How ot add users to the access list: https://support.qgiscloud.com/kb/faq.php?id=6#:~:text=Choose%20your%20map%20and%20click%20on%20the%20pen-icon,only%20available%20with%20a%20QGIS%20Cloud%20Pro%20account.
-> QGIS Projects into Interactive Online Maps: https://mapscaping.com/qgis-projects-into-interactive-online-maps/#:~:text=In%20this%20blog%20post%2C%20we%E2%80%99ll%20walk%20you%20through,data%20and%20visualizations%20with%20a%20wider%20audience%20online.
-> Free web maps: https://gisgeography.com/qgis-cloud/#:~:text=You%20can%20publish%20your%20maps%20free%20of%20charge,Pro%20is%20the%20only%20way%20to%20do%20that.
+
+> How ot add users to the access list: https://support.qgiscloud.com/kb/faq.php?id=6#:~:text=Choose%20your%20map%20and%20click%20on%20the%20pen-icon,only%20available%20with%20a%20QGIS%20Cloud%20Pro%20account
+
+> QGIS Projects into Interactive Online Maps: https://mapscaping.com/qgis-projects-into-interactive-online-maps/#:~:text=In%20this%20blog%20post%2C%20we%E2%80%99ll%20walk%20you%20through,data%20and%20visualizations%20with%20a%20wider%20audience%20online
+
+> Free web maps: https://gisgeography.com/qgis-cloud/#:~:text=You%20can%20publish%20your%20maps%20free%20of%20charge,Pro%20is%20the%20only%20way%20to%20do%20that
+
 > In Details: https://docs.qgiscloud.com/en/
+
 > Running and Scheduling QGIS Processing Jobs: https://www.qgistutorials.com/en/docs/running_qgis_jobs.html
