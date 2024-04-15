@@ -34,7 +34,7 @@ The layers that need to be updated could be updated using QGIS Desktop and by us
 `The city also has data for roads (2,200-line segments), parks (23 polygons), address points (5,500 points), which are updated a no more than 6 times per year and would be ideal to show those on the map as well.`
 These could be used as basemaps (not operational layers) and updating them is the same process as the previous step. 
 
-`If there are any ongoing (monthly/yearly) costs for the proposed solution, Real Estate Agents will need to pay a fee for access to the proposed system. This can recover ongoing monthly costs incurred by the local government. If any monthly costs exists there must be a way to create accounts (security) for each agent to log in on the system to manage access. An estimate of costs is fine, exact figures are not necessary.
+`If there are any ongoing (monthly/yearly) costs for the proposed solution, Real Estate Agents will need to pay a fee for access to the proposed system. This can recover ongoing monthly costs incurred by the local government. If any monthly costs exists there must be a way to create accounts (security) for each agent to log in on the system to manage access. An estimate of costs is fine, exact figures are not necessary.`
 As the Real Estate Agents right now are paying $60 per printed map, instead of paying for the map as it will be on the web, they could pay for the Cloud and storage which would come cheaper than paying $60 for one print. 
 
 # web 
